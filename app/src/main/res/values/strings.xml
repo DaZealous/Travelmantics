@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="sign_in_email">Sign in with email</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="select_image">Select Image</string>
+    <string name="save">SAVE</string>
+
+</resources>
